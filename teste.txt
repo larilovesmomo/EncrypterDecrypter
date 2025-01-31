@@ -1,0 +1,5 @@
+Esse é um teste de ransomeware.
+
+Ele será criptografado e descriptografado.
+
+Eu amo Leticia.
